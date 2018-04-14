@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: Helvetica;
-  }
+}
 
 
 ul.vertnav {
@@ -27,5 +27,4 @@ header {
 .footer {
   background-color: dimgray;
   text-align: left;
-
 }
