@@ -1,10 +1,7 @@
 body {
   text-align: center;
   font-family: Helvetica;
-  display: block;
-
-}
-
+  }
 
 
 ul.vertnav {
@@ -16,4 +13,19 @@ ul.vertnav {
 header {
   background-image: url(../../resources/images/the-flatiron-building.png);
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ny {
+  background-image: url(../../resources/images/the-flatiron-building.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+
 }
