@@ -1,6 +1,13 @@
 body {
   text-align: center;
-  font-family: Helvetica;
+  font-family: Helvetica; sans-serif;
+}
+
+h1 {
+font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+color: white;
 }
 
 
@@ -10,6 +17,12 @@ ul.vertnav {
   padding: 0;
 }
 
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
 header {
   background-image: url(../../resources/images/the-flatiron-building.png);
   background-position: center;
@@ -17,14 +30,45 @@ header {
   background-size: cover;
 }
 
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3  {
+  font-family: Helvetica
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+
 .ny {
   background-image: url(../../resources/images/the-flatiron-building.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
 
 .footer {
   background-color: dimgray;
   text-align: left;
+  font-size: 11px;
+  color: white;
+  font-family: Helvetica
+}
+
+.footnav {
+  font-size: 11px;
+  color: white;
+  font-family: Helvetica
 }
